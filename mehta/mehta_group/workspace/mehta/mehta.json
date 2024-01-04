@@ -1,0 +1,54 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"wunQXqSnrI\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Mehta Group</span>\",\"col\":12}},{\"id\":\"bHeOuCfJv2\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"RIxIjymSlu\",\"type\":\"card\",\"data\":{\"card_name\":\"Report's\",\"col\":4}}]",
+ "creation": "2023-05-13 11:05:49.300941",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "image-view",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Mehta",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Report's",
+   "link_count": 1,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "GSTR-1",
+   "link_count": 0,
+   "link_to": "New GSTR-1",
+   "link_type": "Report",
+   "onboard": 0,
+   "only_for": "India",
+   "type": "Link"
+  }
+ ],
+ "modified": "2023-05-13 11:22:43.492349",
+ "modified_by": "Administrator",
+ "module": "Mehta Group",
+ "name": "Mehta",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Accounts Manager"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ],
+ "sequence_id": 2.0,
+ "shortcuts": [],
+ "title": "Mehta"
+}

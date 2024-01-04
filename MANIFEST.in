@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include mehta *.css
+recursive-include mehta *.csv
+recursive-include mehta *.html
+recursive-include mehta *.ico
+recursive-include mehta *.js
+recursive-include mehta *.json
+recursive-include mehta *.md
+recursive-include mehta *.png
+recursive-include mehta *.py
+recursive-include mehta *.svg
+recursive-include mehta *.txt
+recursive-exclude mehta *.pyc
