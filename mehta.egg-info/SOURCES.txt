@@ -15,8 +15,12 @@ mehta.egg-info/top_level.txt
 mehta/config/__init__.py
 mehta/config/desktop.py
 mehta/config/docs.py
+mehta/fixtures/custom_field.json
 mehta/mehta_group/__init__.py
+mehta/mehta_group/doc_events/journal_entry.py
 mehta/mehta_group/doctype/__init__.py
+mehta/mehta_group/doctype/journal_entery/journal_entery.js
+mehta/mehta_group/doctype/journal_entery/journal_entery.py
 mehta/mehta_group/doctype/mehta_settings/__init__.py
 mehta/mehta_group/doctype/mehta_settings/mehta_settings.js
 mehta/mehta_group/doctype/mehta_settings/mehta_settings.json
@@ -30,7 +34,13 @@ mehta/mehta_group/report/new_gstr_1/__init__.py
 mehta/mehta_group/report/new_gstr_1/new_gstr_1.js
 mehta/mehta_group/report/new_gstr_1/new_gstr_1.json
 mehta/mehta_group/report/new_gstr_1/new_gstr_1.py
+mehta/mehta_group/report/total_purchase/total_purchase.js
+mehta/mehta_group/report/total_purchase/total_purchase.json
+mehta/mehta_group/report/total_purchase/total_purchase.py
 mehta/mehta_group/workspace/mehta/mehta.json
+mehta/public/js/journal_entry.js
 mehta/templates/__init__.py
 mehta/templates/pages/__init__.py
+mehta/templates/pages/__pycache__/__init__.py
 mehta/www/__init__.py
+mehta/www/__pycache__/__init__.py
